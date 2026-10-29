@@ -27,7 +27,7 @@ This project focuses on analyzing marketing funnel and conversion performance us
 The dataset used for this project was taken from Kaggle.
 
 Dataset Link:
-[Direct-to-Consumer E-commerce Funnel Dataset on Kaggle](https://www.kaggle.com/datasets/yashch05/direct-to-consumer-e-commerce-funnel-dataset?utm_source=chatgpt.com)
+[Direct-to-Consumer E-commerce Funnel Dataset on Kaggle](https://www.kaggle.com/datasets/yashch05/direct-to-consumer-e-commerce-funnel-dataset)
 
 ## Project Workflow
 
